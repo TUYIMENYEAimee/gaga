@@ -8,6 +8,7 @@
 <body>
 //please change h2 into h5
 <h2>User Registration Form</h2>
+  WE APPRECIATE YOUR WORK MADAM NOELLE
 
 <form action="/submit_registration" method="post">
   <label for="username">Username:</label><br>
