@@ -6,7 +6,7 @@
 <title>User Registration Form</title>
 </head>
 <body>
-
+//please change h2 into h5
 <h2>User Registration Form</h2>
 
 <form action="/submit_registration" method="post">
